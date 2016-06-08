@@ -7,12 +7,18 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Soluci√≥n serial", "Soluci√
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug con MPIEXEC|x64 = Debug con MPIEXEC|x64
+		Debug con MPIEXEC|x86 = Debug con MPIEXEC|x86
 		Debug|x64 = Debug|x64
 		Debug|x86 = Debug|x86
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug con MPIEXEC|x64.ActiveCfg = Debug con MPIEXEC|x64
+		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug con MPIEXEC|x64.Build.0 = Debug con MPIEXEC|x64
+		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug con MPIEXEC|x86.ActiveCfg = Debug con MPIEXEC|Win32
+		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug con MPIEXEC|x86.Build.0 = Debug con MPIEXEC|Win32
 		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug|x64.ActiveCfg = Debug|x64
 		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug|x64.Build.0 = Debug|x64
 		{D82DBD45-BD47-4C2E-9E7F-746648B2E532}.Debug|x86.ActiveCfg = Debug|Win32
